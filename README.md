@@ -1,3 +1,3 @@
-# sample
+#Learning GIT
 
-#Testing2
+#This is my first GIT process
